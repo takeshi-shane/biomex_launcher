@@ -1,16 +1,8 @@
 {
-  "version": "1.1",
+  "version": "1.0",
   "fabric": {
-    "version": "1.0.1",
-    "url": "https://raw.githubusercontent.com/takeshi-shane/biomex_launcher/main/fabric/fabric-installer-1.0.1.jar"
+    "version": "1.1.1",
+    "url": "https://raw.githubusercontent.com/takeshi-shane/biomex_launcher/main/fabric/fabric-installer-1.1.1.jar"
   },
-  "mods": [
-    {
-      "name": "autoconnect",
-      "version": "1.0.0",
-      "filename": "autoconnect-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/takeshi-shane/biomex_launcher/main/mods/autoconnect-1.0.0.jar"
-    }
-  ],
   "files": []
 }
