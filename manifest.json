@@ -1,8 +1,8 @@
 {
   "version": "1.1",
   "fabric": {
-    "version": "1.21.11",
-    "url": "https://raw.githubusercontent.com/takeshi-shane/biomex_launcher/main/fabric/fabric-installer-1.21.11.jar"
+    "version": "1.0.1",
+    "url": "https://raw.githubusercontent.com/takeshi-shane/biomex_launcher/main/fabric/fabric-installer-1.0.1.jar"
   },
   "mods": [
     {
