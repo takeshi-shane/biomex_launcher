@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "launcher_version": "2.0",
+  "launcher_version": "1.0",
   "launcher_jar_url": "https://github.com/takeshi-shane/biomex_launcher/releases/download/latest/BiomexLauncher.exe",
   "fabric": {
     "version": "1.1.1",
