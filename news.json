@@ -6,7 +6,10 @@
       "title": "Primul update major al serverului",
       "date": "02 Iunie 2026",
       "url": "https://biomex.ro/news/1",
-      "image": "https://raw.githubusercontent.com/takeshi-shane/biomex_launcher/main/news/img1.png"
+      "images": [
+        "https://raw.githubusercontent.com/takeshi-shane/biomex_launcher/main/news/img1_1.png",
+        "https://raw.githubusercontent.com/takeshi-shane/biomex_launcher/main/news/img1_2.png"
+      ]
     },
     {
       "id": 2,
@@ -14,7 +17,9 @@
       "title": "Eveniment special de vara",
       "date": "01 Iunie 2026",
       "url": "https://biomex.ro/news/2",
-      "image": "https://raw.githubusercontent.com/takeshi-shane/biomex_launcher/main/news/img2.png"
+      "images": [
+        "https://raw.githubusercontent.com/takeshi-shane/biomex_launcher/main/news/img2_1.png"
+      ]
     }
   ]
 }
