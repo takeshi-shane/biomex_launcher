@@ -1,5 +1,7 @@
 {
   "version": "1.0",
+  "launcher_version": "1.0",
+  "launcher_jar_url": "https://raw.githubusercontent.com/takeshi-shane/biomex_launcher/main/launcher/BiomexLauncher.jar",
   "fabric": {
     "version": "1.1.1",
     "url": "https://raw.githubusercontent.com/takeshi-shane/biomex_launcher/main/fabric/fabric-installer-1.1.1.jar"
