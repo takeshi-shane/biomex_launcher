@@ -25,11 +25,5 @@
       "sha256": "50F3594DA66D6F17484C7C3760B756754EF4CB9A6FA63F1FB31BEC65E5EF713F",
       "size": 373336
     }
-  ],
-  "files": [
-    {
-      "name": "test.txt",
-      "content": "Legacy text updater remains supported"
-    }
   ]
 }
