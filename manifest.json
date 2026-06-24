@@ -28,6 +28,12 @@
       "url": "https://github.com/takeshi-shane/biomex_launcher/releases/download/modpack-1.0/biomex-quests-client-1.0.0.jar",
       "sha256": "50F3594DA66D6F17484C7C3760B756754EF4CB9A6FA63F1FB31BEC65E5EF713F",
       "size": 373336
+    },
+    {
+      "path": "mods/fabric-api-0.141.4+1.21.11.jar",
+      "url": "https://github.com/takeshi-shane/biomex_launcher/releases/download/modpack-1.0/fabric-api-0.141.4+1.21.11.jar",
+      "sha256": "9286762874FD20D1D45E006D175FEA8FF762DA54E00946BBE952C4F61077159A",
+      "size": 2413332
     }
   ]
 }
