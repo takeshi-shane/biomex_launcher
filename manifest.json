@@ -1,10 +1,35 @@
 {
-  "version": "1.0",
-  "launcher_version": "3.0",
-  "launcher_jar_url": "https://github.com/takeshi-shane/biomex_launcher/releases/download/release/BiomexLauncher.exe",
-  "fabric": {
-    "version": "1.1.1",
-    "url": "https://raw.githubusercontent.com/takeshi-shane/biomex_launcher/main/fabric/fabric-installer-1.1.1.jar"
-  },
-  "files": []
-} 
+  "version": "1.1",
+  "game_files": [
+    {
+      "path": "mods/biomex-map-1.0.0.jar",
+      "url": "https://github.com/takeshi-shane/biomex_launcher/releases/download/modpack-1.0/biomex-map-1.0.0.jar",
+      "sha256": "2980A57110D9B4EBF3D0AD3F8F08EADB1EB1B5F068D6224108681D2E55B36AA2",
+      "size": 15802
+    },
+    {
+      "path": "mods/biomex-auth-client-1.0.0.jar",
+      "url": "https://github.com/takeshi-shane/biomex_launcher/releases/download/modpack-1.0/biomex-auth-client-1.0.0.jar",
+      "sha256": "C77DEA58B1CF8B67C8ED042F3DACC23498999813B9E5C9CA4EB8691FAC8DBBD4",
+      "size": 381542
+    },
+    {
+      "path": "mods/biomex-hud-client-1.0.0.jar",
+      "url": "https://github.com/takeshi-shane/biomex_launcher/releases/download/modpack-1.0/biomex-hud-client-1.0.0.jar",
+      "sha256": "7BC63737A98DF53E5B18203491D6E9E87AC53E631811DDA6ADF3C7E2CC0337AD",
+      "size": 115031
+    },
+    {
+      "path": "mods/biomex-quests-client-1.0.0.jar",
+      "url": "https://github.com/takeshi-shane/biomex_launcher/releases/download/modpack-1.0/biomex-quests-client-1.0.0.jar",
+      "sha256": "50F3594DA66D6F17484C7C3760B756754EF4CB9A6FA63F1FB31BEC65E5EF713F",
+      "size": 373336
+    }
+  ],
+  "files": [
+    {
+      "name": "test.txt",
+      "content": "Legacy text updater remains supported"
+    }
+  ]
+}
