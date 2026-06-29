@@ -36,8 +36,8 @@
       "size": 2413332
     }
   ],
-  "launcher_version":  "1.4.37-dev",
-  "launcher_jar_url":  "https://github.com/takeshi-shane/biomex_launcher/releases/download/launcher-test-1.4.36/BiomexLauncher-Setup-1.4.36.exe",
-  "launcher_sha256":  "7322320B2A9F2D662AB08014A9665C1209DB5E5CADA84FF376C1EBA4B0B699F2",
-  "launcher_size":  45132003
+  "launcher_version":  "1.0.0",
+  "launcher_jar_url":  "https://github.com/takeshi-shane/biomex_launcher/releases/download/launcher-1.0.0/BiomexLauncher-Setup-1.0.0.exe",
+  "launcher_sha256":  "F17AE086CBD5F315728C8FCCFE60149DC943C4CAC284EAFADFB580357FB8DCEE",
+  "launcher_size":  45133136
 }
