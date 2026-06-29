@@ -35,5 +35,9 @@
       "sha256": "9286762874FD20D1D45E006D175FEA8FF762DA54E00946BBE952C4F61077159A",
       "size": 2413332
     }
-  ]
+  ],
+  "launcher_version":  "1.4.36-dev",
+  "launcher_jar_url":  "https://github.com/takeshi-shane/biomex_launcher/releases/download/launcher-test-1.4.36/BiomexLauncher-Setup-1.4.36.exe",
+  "launcher_sha256":  "7322320B2A9F2D662AB08014A9665C1209DB5E5CADA84BF376C1EBA4B0B699F2",
+  "launcher_size":  45132003
 }
